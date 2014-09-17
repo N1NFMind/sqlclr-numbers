@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "numbers", "numbers\numbers.sqlproj", "{BD254ADC-CEE9-45EE-A9F5-095D3473ACDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD254ADC-CEE9-45EE-A9F5-095D3473ACDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD254ADC-CEE9-45EE-A9F5-095D3473ACDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD254ADC-CEE9-45EE-A9F5-095D3473ACDF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BD254ADC-CEE9-45EE-A9F5-095D3473ACDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD254ADC-CEE9-45EE-A9F5-095D3473ACDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD254ADC-CEE9-45EE-A9F5-095D3473ACDF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
